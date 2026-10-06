@@ -1,16 +1,23 @@
-## Hi there 👋
+# こんにちは、椎屋 です👋
 
-<!--
-**tomoki-shiiya35p/tomoki-shiiya35p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+COACHTECHでプログラムを学習しているプログラマー志望です。
+ユーザーの体験を考えながらサービスを作ることに興味があります。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ 使える技術
+- **バックエンド**: PHP / Laravel
+- **データベース**: MySQL
+- **その他**: Docker / Git・GitHub
+
+## 📂 学習成果物
+COACHTECH 教材のハンズオンで作成したリポジトリです。
+- [api-setup-practice](https://github.com/tomoki-shiiya35p/api-setup-practice)API設定の実践
+- [middleware-app-practice](https://github.com/tomoki-shiiya35p/middleware-app-practice)ミドルウェアアプリの実践
+- [blade-app-practice](https://github.com/tomoki-shiiya35p/blade-app-practice)Bladeアプリの練習
+
+
+## 🌱 これから挑戦したいこと
+チームで価値あるWebサービスを作れるプログラマーになりたいです。
+最近は API 設計に興味があります。
+
